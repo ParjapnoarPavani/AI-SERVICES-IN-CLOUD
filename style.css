@@ -17,7 +17,7 @@ body #page {
 }
 body #page {
     background-color: #000000; /* Set a background color if needed */
-    background-image: url('backgoundimg.jpg');
+    background-image: url(backgoundimg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
