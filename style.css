@@ -44,7 +44,7 @@ img {
 }
 /*----------------------------------------header-styles---------------------------------------*/
 #header {
-	background: url(../images/bg-transparent1.png) repeat;
+	background: url(bg-transparent1.png) repeat;
 	margin: 0;
 	min-height: 60px;
 	padding: 0;
@@ -260,7 +260,7 @@ img {
 }
 
 #body.home .header div h3 {
-    background: url("../images/bg-transparent1.png") repeat;
+    background: url("bg-transparent1.png") repeat;
     color: #87e226;
     font-family: audiowide-regular-webfont;
     font-size: 23px;
@@ -437,7 +437,7 @@ img {
 	opacity: 0.7;
 }
 #body.home .footer div ul li a span {
-	background: url(../images/icons.png) no-repeat 0 -152px;
+	background: url(icons.png) no-repeat 0 -152px;
 	display: block;
 	height: 72px;
 	left: 199px;
@@ -448,7 +448,7 @@ img {
 	width: 62px;
 }
 #body.home .footer div ul li a:hover span {
-	background: url(../images/icons.png) no-repeat 0 -226px;
+	background: url(icons.png) no-repeat 0 -226px;
 }
 #body.home .footer div ul li ul {
 	display: inline-block;
@@ -1362,7 +1362,7 @@ img {
 	width: 380px;
 }
 #footer .connect div div a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(icons.png) no-repeat;
 	display: block;
 	float: left;
 	height: 36px;
