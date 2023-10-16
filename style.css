@@ -15,17 +15,7 @@ body #page {
 	width: auto;
 	z-index: 3;
 }
-body #page {
-    background-color: #000000; /* Set a background color if needed */
-    background-image: url("bg-home.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 0;
-    overflow: hidden;
-    padding: 0;
-    width: auto;
-    z-index: 3;
-}
+
 a {
 	text-decoration: none;
 	outline: none;
@@ -541,7 +531,7 @@ img {
 }
 /*----------------------------------------body-styles---------------------------------------*/
 #body.about .header {
-	background: url(backgoundimg.jpg) no-repeat center top #000000;
+	background: url(bg-home.jpg) no-repeat center top #000000;
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin: 0;
