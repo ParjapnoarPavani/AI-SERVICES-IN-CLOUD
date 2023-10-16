@@ -6,7 +6,7 @@ body {
 	width: auto;
 }
 body #page {
-	background: url(C:\Users\pavan\Downloads\space-science\space-science\upload\images\bg-home.jpg) no-repeat scroll center top #000000;
+	background: url(bg-home.jpg) no-repeat scroll center top #000000;
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin: 0;
